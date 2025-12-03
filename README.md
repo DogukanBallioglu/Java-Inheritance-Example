@@ -5,7 +5,7 @@ Paste this code for "src" folder.
 A simple Java project demonstrating the concept of inheritance.
 
 ## Usage
-```Compile and run with a Java IDE or terminal:``` 
+Compile and run with a Java IDE or terminal:
 ```javac Main.java```
 ```java Main```
 
