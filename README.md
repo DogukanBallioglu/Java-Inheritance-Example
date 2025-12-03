@@ -6,8 +6,10 @@ A simple Java project demonstrating the concept of inheritance.
 
 ## Usage
 Compile and run with a Java IDE or terminal:
-```javac Main.java```
-```java Main```
+```bash
+javac Main.java
+java Main
+```
 
 ## Learned Skills
 - Using inheritance in Java
